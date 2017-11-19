@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Roman Font 7';
+    src: url('http://www.fontsaddict.com/fontface/roman-font-7.ttf');
+}
+body {
+    background-color: #2a2a2b;
+}
+.container {
+    background-color: #696c70;
+    border-radius: 10px;
+}
+h1 {
+    color:#fff;
+}
+.numeral {
+    font-size: 80px;
+    font-family: "Roman Font 7";
+}
+p {
+    color:#fff;
+    padding-top: 10px;
+}
